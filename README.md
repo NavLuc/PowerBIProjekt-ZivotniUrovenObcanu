@@ -1,4 +1,4 @@
-# ProjektSQL-ZivotniUrovenObcanu
+# PowerBIProjekt-ZivotniUrovenObcanu
 Dostupnost základních potravin široké veřejnosti - SQL dotazy
 
 Více informací k projektu naleznete v dokumentaci viz https://github.com/NavLuc/PowerBIProjekt-ZivotniUrovenObcanu/blob/main/Dokumentace/PruvodniDokumentace.docx
