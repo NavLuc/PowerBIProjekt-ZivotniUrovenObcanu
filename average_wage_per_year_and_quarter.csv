@@ -1,4 +1,8 @@
 "av_wages_year_prev";"av_wages_year";"av_wages_quarter";"calculation_type";"calculation_code";"industry";"average_wages_growth";"average_wages_value_prev";"average_wages_value"
+;2000;1;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;9017
+;2000;2;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;10207
+;2000;3;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;10889
+;2000;4;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;11696
 2000;2001;1;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;9.74;9017;9895
 2000;2001;2;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;8.86;10207;11111
 2000;2001;3;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;8.82;10889;11849
@@ -730,6 +734,10 @@
 2012;2013;4;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;4.23;22342;23286
 2012;2013;4;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;4.23;22342;23286
 2012;2013;4;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;4.23;22342;23286
+;2000;1;pøepoètenı;200;Tìba a dobıvání;;;14810
+;2000;2;pøepoètenı;200;Tìba a dobıvání;;;16841
+;2000;3;pøepoètenı;200;Tìba a dobıvání;;;15993
+;2000;4;pøepoètenı;200;Tìba a dobıvání;;;18623
 2000;2001;1;pøepoètenı;200;Tìba a dobıvání;7.04;14810;15853
 2000;2001;2;pøepoètenı;200;Tìba a dobıvání;9.23;16841;18395
 2000;2001;3;pøepoètenı;200;Tìba a dobıvání;5.46;15993;16867
@@ -1461,6 +1469,10 @@
 2012;2013;4;pøepoètenı;200;Tìba a dobıvání;-4.13;38757;37157
 2012;2013;4;pøepoètenı;200;Tìba a dobıvání;-4.13;38757;37157
 2012;2013;4;pøepoètenı;200;Tìba a dobıvání;-4.13;38757;37157
+;2000;1;pøepoètenı;200;Zpracovatelskı prùmysl;;;11828
+;2000;2;pøepoètenı;200;Zpracovatelskı prùmysl;;;12749
+;2000;3;pøepoètenı;200;Zpracovatelskı prùmysl;;;12754
+;2000;4;pøepoètenı;200;Zpracovatelskı prùmysl;;;14011
 2000;2001;1;pøepoètenı;200;Zpracovatelskı prùmysl;7.90;11828;12763
 2000;2001;2;pøepoètenı;200;Zpracovatelskı prùmysl;7.72;12749;13733
 2000;2001;3;pøepoètenı;200;Zpracovatelskı prùmysl;7.06;12754;13654
@@ -2192,6 +2204,10 @@
 2012;2013;4;pøepoètenı;200;Zpracovatelskı prùmysl;0.53;26027;26165
 2012;2013;4;pøepoètenı;200;Zpracovatelskı prùmysl;0.53;26027;26165
 2012;2013;4;pøepoètenı;200;Zpracovatelskı prùmysl;0.53;26027;26165
+;2000;1;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;16158
+;2000;2;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;18646
+;2000;3;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;17343
+;2000;4;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;21821
 2000;2001;1;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;7.59;16158;17384
 2000;2001;2;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;5.45;18646;19663
 2000;2001;3;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;7.97;17343;18725
@@ -2923,6 +2939,10 @@
 2012;2013;4;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;-13.04;49817;43321
 2012;2013;4;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;-13.04;49817;43321
 2012;2013;4;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;-13.04;49817;43321
+;2000;1;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;11803
+;2000;2;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;13409
+;2000;3;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;12609
+;2000;4;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;15091
 2000;2001;1;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";6.53;11803;12574
 2000;2001;2;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";6.50;13409;14280
 2000;2001;3;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";5.40;12609;13290
@@ -3654,6 +3674,10 @@
 2012;2013;4;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";-0.80;26253;26043
 2012;2013;4;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";-0.80;26253;26043
 2012;2013;4;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";-0.80;26253;26043
+;2000;1;pøepoètenı;200;Stavebnictví;;;11087
+;2000;2;pøepoètenı;200;Stavebnictví;;;12430
+;2000;3;pøepoètenı;200;Stavebnictví;;;12856
+;2000;4;pøepoètenı;200;Stavebnictví;;;14056
 2000;2001;1;pøepoètenı;200;Stavebnictví;6.78;11087;11839
 2000;2001;2;pøepoètenı;200;Stavebnictví;6.80;12430;13275
 2000;2001;3;pøepoètenı;200;Stavebnictví;7.76;12856;13853
@@ -4385,6 +4409,10 @@
 2012;2013;4;pøepoètenı;200;Stavebnictví;-5.40;25276;23910
 2012;2013;4;pøepoètenı;200;Stavebnictví;-5.40;25276;23910
 2012;2013;4;pøepoètenı;200;Stavebnictví;-5.40;25276;23910
+;2000;1;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;11499
+;2000;2;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;12370
+;2000;3;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;12566
+;2000;4;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;13769
 2000;2001;1;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";10.01;11499;12650
 2000;2001;2;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";7.79;12370;13334
 2000;2001;3;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";8.51;12566;13635
@@ -5116,6 +5144,10 @@
 2012;2013;4;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";-4.63;25405;24229
 2012;2013;4;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";-4.63;25405;24229
 2012;2013;4;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";-4.63;25405;24229
+;2000;1;pøepoètenı;200;Doprava a skladování;;;12201
+;2000;2;pøepoètenı;200;Doprava a skladování;;;13323
+;2000;3;pøepoètenı;200;Doprava a skladování;;;13255
+;2000;4;pøepoètenı;200;Doprava a skladování;;;14689
 2000;2001;1;pøepoètenı;200;Doprava a skladování;6.39;12201;12981
 2000;2001;2;pøepoètenı;200;Doprava a skladování;6.76;13323;14224
 2000;2001;3;pøepoètenı;200;Doprava a skladování;8.32;13255;14358
@@ -5847,6 +5879,10 @@
 2012;2013;4;pøepoètenı;200;Doprava a skladování;0.30;24368;24440
 2012;2013;4;pøepoètenı;200;Doprava a skladování;0.30;24368;24440
 2012;2013;4;pøepoètenı;200;Doprava a skladování;0.30;24368;24440
+;2000;1;pøepoètenı;200;Ubytování, stravování a pohostinství;;;6778
+;2000;2;pøepoètenı;200;Ubytování, stravování a pohostinství;;;7365
+;2000;3;pøepoètenı;200;Ubytování, stravování a pohostinství;;;7626
+;2000;4;pøepoètenı;200;Ubytování, stravování a pohostinství;;;8304
 2000;2001;1;pøepoètenı;200;Ubytování, stravování a pohostinství;17.31;6778;7951
 2000;2001;2;pøepoètenı;200;Ubytování, stravování a pohostinství;17.52;7365;8655
 2000;2001;3;pøepoètenı;200;Ubytování, stravování a pohostinství;13.97;7626;8691
@@ -6578,6 +6614,10 @@
 2012;2013;4;pøepoètenı;200;Ubytování, stravování a pohostinství;3.71;13719;14228
 2012;2013;4;pøepoètenı;200;Ubytování, stravování a pohostinství;3.71;13719;14228
 2012;2013;4;pøepoètenı;200;Ubytování, stravování a pohostinství;3.71;13719;14228
+;2000;1;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;21038
+;2000;2;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;20782
+;2000;3;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;21530
+;2000;4;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;24921
 2000;2001;1;pøepoètenı;200;Informaèní a komunikaèní èinnosti;16.66;21038;24542
 2000;2001;2;pøepoètenı;200;Informaèní a komunikaèní èinnosti;16.95;20782;24305
 2000;2001;3;pøepoètenı;200;Informaèní a komunikaèní èinnosti;16.25;21530;25028
@@ -7309,6 +7349,10 @@
 2012;2013;4;pøepoètenı;200;Informaèní a komunikaèní èinnosti;-2.71;49089;47761
 2012;2013;4;pøepoètenı;200;Informaèní a komunikaèní èinnosti;-2.71;49089;47761
 2012;2013;4;pøepoètenı;200;Informaèní a komunikaèní èinnosti;-2.71;49089;47761
+;2000;1;pøepoètenı;200;Penìnictví a pojišovnictví;;;22559
+;2000;2;pøepoètenı;200;Penìnictví a pojišovnictví;;;26218
+;2000;3;pøepoètenı;200;Penìnictví a pojišovnictví;;;23619
+;2000;4;pøepoètenı;200;Penìnictví a pojišovnictví;;;28289
 2000;2001;1;pøepoètenı;200;Penìnictví a pojišovnictví;17.31;22559;26463
 2000;2001;2;pøepoètenı;200;Penìnictví a pojišovnictví;13.18;26218;29673
 2000;2001;3;pøepoètenı;200;Penìnictví a pojišovnictví;16.49;23619;27513
@@ -8040,6 +8084,10 @@
 2012;2013;4;pøepoètenı;200;Penìnictví a pojišovnictví;-18.15;56519;46262
 2012;2013;4;pøepoètenı;200;Penìnictví a pojišovnictví;-18.15;56519;46262
 2012;2013;4;pøepoètenı;200;Penìnictví a pojišovnictví;-18.15;56519;46262
+;2000;1;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;11363
+;2000;2;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;12036
+;2000;3;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;12207
+;2000;4;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;14052
 2000;2001;1;pøepoètenı;200;Èinnosti v oblasti nemovitostí;12.23;11363;12753
 2000;2001;2;pøepoètenı;200;Èinnosti v oblasti nemovitostí;11.24;12036;13389
 2000;2001;3;pøepoètenı;200;Èinnosti v oblasti nemovitostí;8.97;12207;13302
@@ -8771,6 +8819,10 @@
 2012;2013;4;pøepoètenı;200;Èinnosti v oblasti nemovitostí;-3.70;23790;22909
 2012;2013;4;pøepoètenı;200;Èinnosti v oblasti nemovitostí;-3.70;23790;22909
 2012;2013;4;pøepoètenı;200;Èinnosti v oblasti nemovitostí;-3.70;23790;22909
+;2000;1;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;14336
+;2000;2;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;15687
+;2000;3;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;15456
+;2000;4;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;18485
 2000;2001;1;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;10.14;14336;15789
 2000;2001;2;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;6.78;15687;16751
 2000;2001;3;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;8.47;15456;16765
@@ -9502,6 +9554,10 @@
 2012;2013;4;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;-6.52;36604;34219
 2012;2013;4;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;-6.52;36604;34219
 2012;2013;4;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;-6.52;36604;34219
+;2000;1;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;9692
+;2000;2;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;10283
+;2000;3;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;10375
+;2000;4;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;11465
 2000;2001;1;pøepoètenı;200;Administrativní a podpùrné èinnosti;6.74;9692;10345
 2000;2001;2;pøepoètenı;200;Administrativní a podpùrné èinnosti;7.72;10283;11077
 2000;2001;3;pøepoètenı;200;Administrativní a podpùrné èinnosti;9.31;10375;11341
@@ -10233,6 +10289,10 @@
 2012;2013;4;pøepoètenı;200;Administrativní a podpùrné èinnosti;-1.06;17726;17538
 2012;2013;4;pøepoètenı;200;Administrativní a podpùrné èinnosti;-1.06;17726;17538
 2012;2013;4;pøepoètenı;200;Administrativní a podpùrné èinnosti;-1.06;17726;17538
+;2000;1;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;13538
+;2000;2;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;16156
+;2000;3;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;14456
+;2000;4;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;17691
 2000;2001;1;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";9.08;13538;14767
 2000;2001;2;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";9.12;16156;17629
 2000;2001;3;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";8.07;14456;15622
@@ -10964,6 +11024,10 @@
 2012;2013;4;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";-0.48;28585;28448
 2012;2013;4;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";-0.48;28585;28448
 2012;2013;4;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";-0.48;28585;28448
+;2000;1;pøepoètenı;200;Vzdìlávání;;;10508
+;2000;2;pøepoètenı;200;Vzdìlávání;;;12674
+;2000;3;pøepoètenı;200;Vzdìlávání;;;11409
+;2000;4;pøepoètenı;200;Vzdìlávání;;;14230
 2000;2001;1;pøepoètenı;200;Vzdìlávání;9.94;10508;11552
 2000;2001;2;pøepoètenı;200;Vzdìlávání;10.63;12674;14021
 2000;2001;3;pøepoètenı;200;Vzdìlávání;11.83;11409;12759
@@ -11695,6 +11759,10 @@
 2012;2013;4;pøepoètenı;200;Vzdìlávání;2.16;27242;27830
 2012;2013;4;pøepoètenı;200;Vzdìlávání;2.16;27242;27830
 2012;2013;4;pøepoètenı;200;Vzdìlávání;2.16;27242;27830
+;2000;1;pøepoètenı;200;Zdravotní a sociální péèe;;;10640
+;2000;2;pøepoètenı;200;Zdravotní a sociální péèe;;;12254
+;2000;3;pøepoètenı;200;Zdravotní a sociální péèe;;;11510
+;2000;4;pøepoètenı;200;Zdravotní a sociální péèe;;;13466
 2000;2001;1;pøepoètenı;200;Zdravotní a sociální péèe;12.07;10640;11924
 2000;2001;2;pøepoètenı;200;Zdravotní a sociální péèe;13.11;12254;13860
 2000;2001;3;pøepoètenı;200;Zdravotní a sociální péèe;13.45;11510;13058
@@ -12426,6 +12494,10 @@
 2012;2013;4;pøepoètenı;200;Zdravotní a sociální péèe;-0.13;26279;26244
 2012;2013;4;pøepoètenı;200;Zdravotní a sociální péèe;-0.13;26279;26244
 2012;2013;4;pøepoètenı;200;Zdravotní a sociální péèe;-0.13;26279;26244
+;2000;1;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;10250
+;2000;2;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;11705
+;2000;3;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;10892
+;2000;4;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;12773
 2000;2001;1;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;10.32;10250;11308
 2000;2001;2;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;13.02;11705;13229
 2000;2001;3;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;15.64;10892;12596
@@ -13157,6 +13229,10 @@
 2012;2013;4;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;-6.53;23472;21940
 2012;2013;4;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;-6.53;23472;21940
 2012;2013;4;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;-6.53;23472;21940
+;2000;1;pøepoètenı;200;Ostatní èinnosti;;;10189
+;2000;2;pøepoètenı;200;Ostatní èinnosti;;;11277
+;2000;3;pøepoètenı;200;Ostatní èinnosti;;;10751
+;2000;4;pøepoètenı;200;Ostatní èinnosti;;;12344
 2000;2001;1;pøepoètenı;200;Ostatní èinnosti;7.70;10189;10974
 2000;2001;2;pøepoètenı;200;Ostatní èinnosti;8.81;11277;12271
 2000;2001;3;pøepoètenı;200;Ostatní èinnosti;9.38;10751;11759
@@ -23901,3 +23977,79 @@
 2019;2020;2;pøepoètenı;200;Ubytování, stravování a pohostinství;-14.03;20908;17974
 2019;2020;2;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;-0.83;30430;30176
 2020;2021;2;pøepoètenı;200;Doprava a skladování;7.59;30666;32994
+;2000;1;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;9017
+;2000;2;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;10207
+;2000;3;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;10889
+;2000;4;pøepoètenı;200;Zemìdìlství, lesnictví, rybáøství;;;11696
+;2000;1;pøepoètenı;200;Tìba a dobıvání;;;14810
+;2000;2;pøepoètenı;200;Tìba a dobıvání;;;16841
+;2000;3;pøepoètenı;200;Tìba a dobıvání;;;15993
+;2000;4;pøepoètenı;200;Tìba a dobıvání;;;18623
+;2000;1;pøepoètenı;200;Zpracovatelskı prùmysl;;;11828
+;2000;2;pøepoètenı;200;Zpracovatelskı prùmysl;;;12749
+;2000;3;pøepoètenı;200;Zpracovatelskı prùmysl;;;12754
+;2000;4;pøepoètenı;200;Zpracovatelskı prùmysl;;;14011
+;2000;1;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;16158
+;2000;2;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;18646
+;2000;3;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;17343
+;2000;4;pøepoètenı;200;Vıroba a rozvod elektøiny, plynu, tepla a klimatiz. vzduchu;;;21821
+;2000;1;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;11803
+;2000;2;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;13409
+;2000;3;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;12609
+;2000;4;pøepoètenı;200;"Zásobování vodou; èinnosti související s odpady a sanacemi";;;15091
+;2000;1;pøepoètenı;200;Stavebnictví;;;11087
+;2000;2;pøepoètenı;200;Stavebnictví;;;12430
+;2000;3;pøepoètenı;200;Stavebnictví;;;12856
+;2000;4;pøepoètenı;200;Stavebnictví;;;14056
+;2000;1;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;11499
+;2000;2;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;12370
+;2000;3;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;12566
+;2000;4;pøepoètenı;200;"Velkoobchod a maloobchod; opravy a údrba motorovıch vozidel";;;13769
+;2000;1;pøepoètenı;200;Doprava a skladování;;;12201
+;2000;2;pøepoètenı;200;Doprava a skladování;;;13323
+;2000;3;pøepoètenı;200;Doprava a skladování;;;13255
+;2000;4;pøepoètenı;200;Doprava a skladování;;;14689
+;2000;1;pøepoètenı;200;Ubytování, stravování a pohostinství;;;6778
+;2000;2;pøepoètenı;200;Ubytování, stravování a pohostinství;;;7365
+;2000;3;pøepoètenı;200;Ubytování, stravování a pohostinství;;;7626
+;2000;4;pøepoètenı;200;Ubytování, stravování a pohostinství;;;8304
+;2000;1;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;21038
+;2000;2;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;20782
+;2000;3;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;21530
+;2000;4;pøepoètenı;200;Informaèní a komunikaèní èinnosti;;;24921
+;2000;1;pøepoètenı;200;Penìnictví a pojišovnictví;;;22559
+;2000;2;pøepoètenı;200;Penìnictví a pojišovnictví;;;26218
+;2000;3;pøepoètenı;200;Penìnictví a pojišovnictví;;;23619
+;2000;4;pøepoètenı;200;Penìnictví a pojišovnictví;;;28289
+;2000;1;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;11363
+;2000;2;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;12036
+;2000;3;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;12207
+;2000;4;pøepoètenı;200;Èinnosti v oblasti nemovitostí;;;14052
+;2000;1;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;14336
+;2000;2;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;15687
+;2000;3;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;15456
+;2000;4;pøepoètenı;200;Profesní, vìdecké a technické èinnosti;;;18485
+;2000;1;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;9692
+;2000;2;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;10283
+;2000;3;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;10375
+;2000;4;pøepoètenı;200;Administrativní a podpùrné èinnosti;;;11465
+;2000;1;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;13538
+;2000;2;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;16156
+;2000;3;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;14456
+;2000;4;pøepoètenı;200;"Veøejná správa a obrana; povinné sociální zabezpeèení";;;17691
+;2000;1;pøepoètenı;200;Vzdìlávání;;;10508
+;2000;2;pøepoètenı;200;Vzdìlávání;;;12674
+;2000;3;pøepoètenı;200;Vzdìlávání;;;11409
+;2000;4;pøepoètenı;200;Vzdìlávání;;;14230
+;2000;1;pøepoètenı;200;Zdravotní a sociální péèe;;;10640
+;2000;2;pøepoètenı;200;Zdravotní a sociální péèe;;;12254
+;2000;3;pøepoètenı;200;Zdravotní a sociální péèe;;;11510
+;2000;4;pøepoètenı;200;Zdravotní a sociální péèe;;;13466
+;2000;1;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;10250
+;2000;2;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;11705
+;2000;3;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;10892
+;2000;4;pøepoètenı;200;Kulturní, zábavní a rekreaèní èinnosti;;;12773
+;2000;1;pøepoètenı;200;Ostatní èinnosti;;;10189
+;2000;2;pøepoètenı;200;Ostatní èinnosti;;;11277
+;2000;3;pøepoètenı;200;Ostatní èinnosti;;;10751
+;2000;4;pøepoètenı;200;Ostatní èinnosti;;;12344
